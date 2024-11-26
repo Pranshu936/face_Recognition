@@ -8,6 +8,7 @@ This project demonstrates how to create a fast and efficient real-time face reco
 - Capture face images and associate them with user names.
 - Train a face recognition model using captured images.
 - Recognize faces in real-time with user-specific labels.
+- Recognize faces from image  
 
 
 
